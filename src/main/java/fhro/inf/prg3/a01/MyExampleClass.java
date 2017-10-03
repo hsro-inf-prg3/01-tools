@@ -7,6 +7,6 @@ public class MyExampleClass {
 	 */
 	public int multiply(int a, int b) {
 		// TODO return correct multiplication result
-		return 0;
+		return a*b;
 	}
 }
